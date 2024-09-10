@@ -1,0 +1,11 @@
+{
+  "name": "patron-filtro-tuberia",
+  "version": "1.0.0",
+  "description": "ejemplo basico de patron filtro de tuberia",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Melissa Galvis M",
+  "license": "ISC"
+}
